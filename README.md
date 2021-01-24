@@ -7,6 +7,8 @@ The data consists of personal movement activities tracked for the period from Oc
 
 The dataset used can be downloaded from course website at the following link: https://d396qusza40orc.cloudfront.net/repdata/data/activity.zip" [52K]
 
+The relevant files attached to this assignments are as follows:
+
 PA1_template.Rmd
 
 This file documents the steps and r codes in answering the questions required in the assignment.
