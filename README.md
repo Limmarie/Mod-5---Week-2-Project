@@ -15,6 +15,8 @@ This file documents the steps and r codes in answering the questions required in
 
 PA1_template.html
 
-This file presents the written documents and outputs of the r scripts given in the PA1_template.Rmd.
+This file presents the written documentation and outputs of the r scripts given in the PA1_template.Rmd. However, unable to view it nicely in this HTML due to file size too big.  Have saved a copy in PDF, please view it via PA1_template.PDF.
+
+Thank you!
 
 
